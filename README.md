@@ -28,6 +28,8 @@ https://github.com/yourusername/focus-timer-extension.git
 4. Click Load unpacked and select the project folder
 5. Click the extension icon to use the Focus Timer
 
+---
+
 ## Usage
 1. Start the timer using the "Start" button
 2. Add websites to block during your focus session
