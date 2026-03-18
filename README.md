@@ -21,7 +21,7 @@
 ## Installation
 1. Clone the repository:
 ```bash
-https://github.com/yourusername/focus-timer-extension.git
+https://github.com/Abid091106/Chrome-Extension-Focus-Timer.git
 ```
 2. Open Chrome and go to chrome://extensions/
 3. Enable Developer Mode
