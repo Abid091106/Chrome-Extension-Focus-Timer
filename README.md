@@ -1,6 +1,5 @@
 **Pomodoro-based timer and website blocker to boost productivity.**
 
---
 
 ## Features
 - 25-minute focus timer with start/pause functionality
@@ -8,7 +7,6 @@
 - Persistent storage for blocked sites using Chrome Storage API
 - Clean, responsive UI for easy usage
 
---
 
 ## Tech Stack
 - JavaScript
@@ -16,7 +14,6 @@
 - Chrome Extensions API
 - Local Storage
 
---
 
 ## Installation
 1. Clone the repo:
@@ -28,7 +25,6 @@ https://github.com/Abid091106/Chrome-Extension-Focus-Timer.git
 4. Click Load unpacked and select the project folder
 5. Click the extension icon to use the Focus Timer
 
---
 
 ## Usage
 1. Start the timer using the "Start" button
