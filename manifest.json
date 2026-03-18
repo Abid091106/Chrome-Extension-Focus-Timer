@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Focus Timer",
+  "version": "1.0",
+  "description": "Pomodoro-based timer and website blocker to improve productivity",
+  "permissions": ["storage", "tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "16": "assets/icon.png",
+    "48": "assets/icon.png",
+    "128": "assets/icon.png"
+  }
+}
