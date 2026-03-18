@@ -8,11 +8,11 @@
 - Clean, responsive UI for easy usage
 
 
-## Tech Stack
+## Built Using
 - JavaScript
 - HTML & CSS
 - Chrome Extensions API
-- Local Storage
+- Chrome Storage API
 
 
 ## Installation
