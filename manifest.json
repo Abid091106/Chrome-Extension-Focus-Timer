@@ -14,8 +14,8 @@
     }
   ],
   "icons": {
-    "16": "assets/icon.png",
-    "48": "assets/icon.png",
-    "128": "assets/icon.png"
+    "16": "assets/Pomodoro.png",
+    "48": "assets/Pomodoro.png",
+    "128": "assets/Pomodoro.png"
   }
 }
