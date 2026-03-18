@@ -21,9 +21,15 @@
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/focus-timer-extension.git
+https://github.com/yourusername/focus-timer-extension.git
 ```
 2. Open Chrome and go to chrome://extensions/
 3. Enable Developer Mode
 4. Click Load unpacked and select the project folder
 5. Click the extension icon to use the Focus Timer
+
+## Usage
+1. Start the timer using the "Start" button
+2. Add websites to block during your focus session
+3. Pause or reset as needed
+4. When a blocked site is visited, it will display a focus reminder
